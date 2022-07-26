@@ -8,6 +8,8 @@ Steps to run and build solution
 
 3. Build the solution.
 
+4. Output CSV file will be created in following location ".\DemoB\DemoB.Console\bin\Debug\output\result_output.result.csv" 
+
 
 Dependencies
 
