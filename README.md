@@ -2,11 +2,11 @@
 
 Steps to run and build solution
 
-1. Dwonload & Extract DemoB.zip
+1. Donwload & Extract DemoB.zip
 
-2. Open DemoB.sln in Visual studio. Please note I have used VS 2017 for development
+2. Open DemoB.sln file in Visual studio. Please note I have used VS 2017 for development
 
-3. Build and run the solution 'DemoB.App'.
+3. Build and run the solution 'DemoB.App' in solution explorer.
 
 4. Output CSV file will be created in following location ".\DemoB\DemoB.Console\bin\Debug\output\result_output.result.csv" 
 
