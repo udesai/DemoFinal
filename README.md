@@ -2,7 +2,7 @@
 
 Steps to run and build solution
 
-1. Extract DemoB.zip
+1. Dwonload & Extract DemoB.zip
 
 2. Open DemoB.sln in Visual studio. Please note I have used VS 2017 for development
 
