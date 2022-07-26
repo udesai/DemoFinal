@@ -1,4 +1,4 @@
-# bunningsfinal
+# final solution
 
 Steps to run and build solution
 
