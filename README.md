@@ -6,7 +6,7 @@ Steps to run and build solution
 
 2. Open DemoB.sln in Visual studio. Please note I have used VS 2017 for development
 
-3. Build the solution.
+3. Build and run the solution 'DemoB.App'.
 
 4. Output CSV file will be created in following location ".\DemoB\DemoB.Console\bin\Debug\output\result_output.result.csv" 
 
